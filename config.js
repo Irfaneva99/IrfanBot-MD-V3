@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = [] 
-global.prems = [''] 
+global.owner = ['6289510497533'] 
+global.mods = ['6289510497533'] 
+global.prems = ['6289510497533'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
-global.gopay = ''
+global.nameowner = 'IRFANFF9'
+global.numberowner = '6289510497533'
+global.instagram = 'https://instagram.com/irfanff9'
+global.github = 'https://github.com/irfanff99'
+global.dana = '089510497533'
+global.pulsa = '085855854993'
+global.gopay = '089510497533'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'IrfanBot-MD-V3'
+global.gc = 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+global.web = 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Permanen 30.000\n1 bulan 15.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/56f0638ae991d6aa3fec4.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/56f0638ae991d6aa3fec4.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© AɾυʅʅBσƚȥMD'
+global.wm = 'IRFANFF9'
 global.watermark = wm
-global.wm2 = '「 ArullBotzMD 」'
-global.wm3 = '© AɾυʅʅBσƚȥMD'
+global.wm2 = '「 IrfanBot-MD-V3 」'
+global.wm3 = 'IRFANFF9'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
+global.media = 'https://telegra.ph/file/56f0638ae991d6aa3fec4.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
-global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.packname = 'IrfanBot-MD-V3'
+global.author = 'IRFANFF9'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
