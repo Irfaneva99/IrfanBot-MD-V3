@@ -702,7 +702,7 @@ module.exports = {
                 if (chat.welcome) {
                     let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                     for (let user of participants) {
-                       let pp = 'https://telegra.ph/file/555b2f064b651ee619857.jpg'
+                       let pp = 'https://telegra.ph/file/ed568d7f7a38a92af8d6a.png'
                         try {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
