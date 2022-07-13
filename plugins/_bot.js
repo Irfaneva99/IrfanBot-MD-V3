@@ -10,7 +10,7 @@ hyzer = {
   "extendedTextMessage": {
   "text": '*Apa Kontoll*',
   "title": wm,
-  'jpegThumbnail': 'https://telegra.ph/file/20509b31b6e05ff999daa.jpg',
+  'jpegThumbnail': 'https://telegra.ph/file/d688df7697085b91c5045.png',
         }
        } 
      }
